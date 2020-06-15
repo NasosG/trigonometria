@@ -20,7 +20,7 @@
 <div align="center"><img src="images/Screenshot_t3.png" alt="image3"></div>
 
 
-## 📝 &nbsp License - Άδεια
+## 📝 &nbsp; License - Άδεια
 
 The project is available as open source under the terms of the MIT License.
 
